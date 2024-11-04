@@ -1,0 +1,6 @@
+one|один
+one one|один+один
+two|два
+hello | привет
+one hello| один+привет
+turtle |  888
