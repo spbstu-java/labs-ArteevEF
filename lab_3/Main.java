@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Dictionary dictionary = new Dictionary ();
-        Path path = Path.of("D:\\3_Upgrade\\polyteh_eng\\JAVA\\dictionary.txt");
+        Path path = Path.of(".\\dictionary.txt");
         try {
             dictionary.fileReader(path);
         }
